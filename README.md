@@ -1,4 +1,7 @@
 # 📁 File Manager App
+## 🌐 Live Demo
+
+https://file-manager-app-n9gvkb6m75qhuumj5insb.streamlit.app
 
 A Python File Manager Web Application built using Streamlit.
 
